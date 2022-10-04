@@ -1,0 +1,70 @@
+{
+  "page": {
+    "home": {
+      "en": "Home",
+      "id": "Home"
+    },
+    "pokeType": {
+      "en": "Pokemon Type",
+      "id": "Tipe Pokemon"
+    }
+  },
+  "dashboard": {
+    "title": {
+      "en": "All the Pokémon data you'll ever need in one place!",
+      "id": "Semua data Pokémon yang Anda butuhkan dalam satu tempat!"
+    },
+    "desc": {
+      "en": "Thousands of data compiled into one place",
+      "id": "Ribuan data dikompilasi menjadi satu tempat"
+    },
+    "button": {
+      "en": "Check PokèDex",
+      "id": "Cek PokèDex"
+    },
+    "generatePoke": {
+      "en": "All Generation totaling {count} Pokemon",
+      "id": "Semua Generasi total {count} Pokemon"
+    },
+    "loadMore": {
+      "en": "Load More...",
+      "id": "Muat Lebih Banyak..."
+    },
+    "label": {
+      "weight": {
+        "en": "Weight :",
+        "id": "Berat :"
+      },
+      "height": {
+        "en": "Height :",
+        "id": "Tinggi :"
+      },
+      "ability": {
+        "en": "Ability :",
+        "id": "Kemampuan :"
+      },
+      "type": {
+        "en": "Type :",
+        "id": "Tipe :"
+      },
+    },
+    "moreDetail": {
+      "en": "More Detail",
+      "id": "Detail Lebih Lanjut"
+    }
+  },
+  "pokemonDetail": {
+    "otherImage": {
+      "en": "Other Image :",
+      "id": "Gambar Lainnya :"
+    },
+    "stats": {
+      "en": "Stats :",
+      "id": "Stats :"
+    },
+    "evolution": {
+      "en": "Evolution :",
+      "id": "Evolusi :"
+    }
+  }
+}
